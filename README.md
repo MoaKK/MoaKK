@@ -4,6 +4,25 @@ I'm an Informatics student at NTNU and a fullstack developer who enjoys building
 
 Most of my experience comes from academic projects, personal projects, and my work with HackerSpace NTNU. I’ve worked on everything from developing webapplications, to game development, to creating AI tools through the use of different LLM APIs. I'm also familiar with Esri's API and have experience working with ArcGIS Pro and geodata analysis.
 
+### Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-kazem-khajeh-b6619b360/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Kazem_kh95@hotmail.com) 
+
+### Projects
+
+- **[Hackerspace NTNU Website](https://github.com/hackerspace-ntnu/website-next)**  
+  Fullstack website project for the Hackerspace NTNU student organization.
+- **[CatanBoardGame](https://github.com/MoaKK/CatanBoardGame)**  
+  Game development project inspired by Catan.
+- **[CV Screening Tool](https://github.com/bookdragonish/cv-screening-tool)**  
+  AI-focused tool for CV screening workflows.
+- **[Hexa Battle](https://github.com/armanilknem/Hexa-battle)**  
+  Strategy/board game project.
+- **[LC3 Virtual Machine](https://github.com/MoaKK/LC3-Virtual-Machine)**  
+  Low-level systems project implementing an LC-3 VM.
+
+### GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Moakk&theme=default&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Moakk&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # Tech Stack
 
@@ -90,11 +109,3 @@ Most of my experience comes from academic projects, personal projects, and my wo
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
 
-# GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Moakk&theme=default&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Moakk&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-kazem-khajeh-b6619b360/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Kazem_kh95@hotmail.com) 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
