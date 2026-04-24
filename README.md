@@ -21,8 +21,11 @@ Most of my experience comes from academic projects, personal projects, and my wo
   Low-level systems project implementing an LC-3 VM.
 
 ### GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Moakk&theme=default&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Moakk&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=MoaKK&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="330" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MoaKK&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
 # Tech Stack
 
