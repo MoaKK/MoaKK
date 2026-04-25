@@ -36,6 +36,7 @@ Most of my experience comes from academic projects, personal projects, and my wo
 
 <details>
   <summary><strong>Tech Stack</strong></summary>
+  
 ### Languages
 
 <p>
