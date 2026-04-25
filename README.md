@@ -24,8 +24,6 @@ Most of my experience comes from academic projects, personal projects, and my wo
 
   <summary><strong>GitHub Stats</strong></summary>
 
-<br>
-
 <p align="center">
 
   <img height="170" src="https://github-readme-stats.shion.dev/api?username=MoaKK&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
@@ -38,9 +36,6 @@ Most of my experience comes from academic projects, personal projects, and my wo
 
 <details>
   <summary><strong>Tech Stack</strong></summary>
-
-<br>
-
 ### Languages
 
 <p>
