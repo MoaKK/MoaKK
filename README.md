@@ -73,6 +73,8 @@ Most of my experience comes from academic projects, personal projects, and my wo
   <img src="https://img.shields.io/badge/next--intl-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/FullCalendar-2D8CFF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/NativeWind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack%20Router-FF4154?style=for-the-badge&logo=reactrouter&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
 </p>
 
 ### Databases & Backend Services
