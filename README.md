@@ -11,6 +11,8 @@ Most of my experience comes from academic projects, personal projects, and my wo
 
 - **[Hackerspace NTNU Website](https://github.com/hackerspace-ntnu/website-next)**  
   Fullstack website project for the Hackerspace NTNU student organization.
+- **[Homework Helper AI](https://github.com/MoaKK/Homework-Helper-AI)**<br />
+  AI-focused phone application which helps solve homeworks by taking- or uploading <br /> pictures of your homework on the phone.
 - **[CatanBoardGame](https://github.com/MoaKK/CatanBoardGame)**  
   Game development project inspired by Catan.
 - **[CV Screening Tool](https://github.com/bookdragonish/cv-screening-tool)**  
@@ -54,7 +56,9 @@ Most of my experience comes from academic projects, personal projects, and my wo
 <p>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
