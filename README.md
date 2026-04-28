@@ -14,14 +14,15 @@ Most of my experience comes from academic projects, personal projects, and my wo
 - **[Homework Helper AI](https://github.com/MoaKK/Homework-Helper-AI)**<br />
   AI-focused phone application which helps solve homeworks by taking- or uploading <br /> pictures of your homework on the phone.
 - **[CatanBoardGame](https://github.com/MoaKK/CatanBoardGame)**  
-  Game development project inspired by Catan.
+  Game development project based on the board game Catan.
 - **[CV Screening Tool](https://github.com/bookdragonish/cv-screening-tool)**  
   AI-focused tool for CV screening workflows.
 - **[Hexa Battle](https://github.com/armanilknem/Hexa-battle)**  
-  Strategy/board game project.
+  Strategy/board game project inspired by the flash game Hex Empire 1.
 - **[LC3 Virtual Machine](https://github.com/MoaKK/LC3-Virtual-Machine)**  
   Low-level systems project implementing an LC-3 VM.
-
+- **[Document scanner](https://github.com/MoaKK/document-scanner)** <br />
+    A document scanner allowing users to scan, crop, and enhance physical documents into clean digital copies.
 <details>
 
   <summary><strong>GitHub Stats</strong></summary>
