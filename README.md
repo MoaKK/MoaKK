@@ -16,7 +16,7 @@ Most of my experience comes from academic projects, personal projects, and my wo
 - **[CatanBoardGame](https://github.com/MoaKK/CatanBoardGame)**  
   Game development project based on the board game Catan.
 - **[CV Screening Tool](https://github.com/bookdragonish/cv-screening-tool)**  
-  AI-focused tool for CV screening workflows.
+  AI-focused tool for screening multiple CVs up against a job announcement.
 - **[Hexa Battle](https://github.com/armanilknem/Hexa-battle)**  
   Strategy/board game project inspired by the flash game Hex Empire 1.
 - **[LC3 Virtual Machine](https://github.com/MoaKK/LC3-Virtual-Machine)**  
