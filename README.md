@@ -11,7 +11,9 @@ Most of my experience comes from academic projects, personal projects, and my wo
 
 - **[Hackerspace NTNU Website](https://github.com/hackerspace-ntnu/website-next)**  
   Fullstack website project for the Hackerspace NTNU student organization.
-- **[Homework Helper AI](https://github.com/MoaKK/Homework-Helper-AI)**<br />
+- **[GeoField Collector](https://github.com/MoaKK/GeoField-Collector)** <br />
+  React Native GIS field survey phone app for collecting, mapping, filtering, and exporting geotagged observations with GPS, photos, and offline local storage.
+- **[Homework Helper AI](https://github.com/MoaKK/Homework-Helper-AI)** <br />
   AI-focused phone application which helps solve homeworks by taking- or uploading <br /> pictures of your homework on the phone.
 - **[CatanBoardGame](https://github.com/MoaKK/CatanBoardGame)**  
   Game development project based on the board game Catan.
