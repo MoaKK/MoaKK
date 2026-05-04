@@ -11,6 +11,8 @@ Most of my experience comes from academic projects, personal projects, and my wo
 
 - **[Hackerspace NTNU Website](https://github.com/hackerspace-ntnu/website-next)**  
   Fullstack website project for the Hackerspace NTNU student organization.
+- **[AI Code Reviewer](https://github.com/MoaKK/AI-Code-Reviewer)** <br />
+  GitHub Actions bot that automatically reviews pull requests using the Claude API, posting inline comments and a summary on every PR.
 - **[GeoField Collector](https://github.com/MoaKK/GeoField-Collector)** <br />
   React Native GIS field survey phone app for collecting, mapping, filtering, and exporting geotagged observations with GPS, photos, and offline local storage.
 - **[Homework Helper AI](https://github.com/MoaKK/Homework-Helper-AI)** <br />
@@ -93,11 +95,12 @@ Most of my experience comes from academic projects, personal projects, and my wo
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
-### AI & LLM APIs
+### AI/LLM APIs
 
 <p>
   <img src="https://img.shields.io/badge/Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/NorLLM-111827?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
 ### Cloud, Hosting & DevOps
