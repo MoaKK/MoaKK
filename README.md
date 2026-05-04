@@ -23,6 +23,8 @@ Most of my experience comes from academic projects, personal projects, and my wo
   AI-focused tool for screening multiple CVs up against a job announcement.
 - **[Hexa Battle](https://github.com/armanilknem/Hexa-battle)**  
   Strategy/board game project inspired by the flash game Hex Empire 1.
+- **[Localint](https://github.com/MoaKK/Localint)** <br />
+A CLI that catches placeholder mismatches in your i18n locale files before they ship. Detects renamed, missing, and extra interpolation variables across JSON and YAML locale files
 - **[LC3 Virtual Machine](https://github.com/MoaKK/LC3-Virtual-Machine)**  
   Low-level systems project implementing an LC-3 VM.
 - **[Document scanner](https://github.com/MoaKK/document-scanner)** <br />
