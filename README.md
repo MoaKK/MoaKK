@@ -21,6 +21,8 @@ Most of my experience comes from academic projects, personal projects, and my wo
   Game development project based on the board game Catan.
 - **[CV Screening Tool](https://github.com/bookdragonish/cv-screening-tool)**  
   AI-focused tool for screening multiple CVs up against a job announcement.
+- **[KillPort CLI](https://github.com/MoaKK/KillPort-CLI)** <br />
+  A CLI that kills whatever is running on a port, without digging through lsof output. Supports multiple ports, --force flag, and SIGKILL fallback.
 - **[Hexa Battle](https://github.com/armanilknem/Hexa-battle)**  
   Strategy/board game project inspired by the flash game Hex Empire 1.
 - **[Localint](https://github.com/MoaKK/Localint)** <br />
