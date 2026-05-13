@@ -17,17 +17,17 @@ Most of my experience comes from academic projects, personal projects, and my wo
 Interaktivt kart over kollektivtransporttilgjengelighet i Norge, basert på GTFS-data fra Entur. 
 - **[GeoField Collector](https://github.com/MoaKK/GeoField-Collector)** <br />
   React Native GIS field survey phone app for collecting, mapping, filtering, and exporting geotagged observations with GPS, photos, and offline local storage.
-- **[GeoScope](https://github.com/MoaKK/GeoScope)** <br />
+- **[GeoScope](https://geo-scope-nu.vercel.app/)** <br />
 An interactive geospatial statistics web app built with Next.js and the ArcGIS Maps SDK for JavaScript.
 - **[Homework Helper AI](https://github.com/MoaKK/Homework-Helper-AI)** <br />
   AI-focused phone application which helps solve homeworks by taking- or uploading <br /> pictures of your homework on the phone.
-- **[KillPort CLI](https://github.com/MoaKK/KillPort-CLI)** <br />
+- **[KillPort CLI](https://www.npmjs.com/package/@moakk/killport-cli)** <br />
   A CLI that kills whatever is running on a port, without digging through lsof output. Supports multiple ports, --force flag, and SIGKILL fallback.
 - **[CatanBoardGame](https://github.com/MoaKK/CatanBoardGame)**  
   Game development project based on the board game Catan.
 - **[CV Screening Tool](https://github.com/bookdragonish/cv-screening-tool)**  
   AI-focused tool for screening multiple CVs up against a job announcement.
-- **[Localint](https://github.com/MoaKK/Localint)** <br />
+- **[Localint](https://www.npmjs.com/package/localint)** <br />
 A CLI that catches placeholder mismatches in your i18n locale files before they ship. Detects renamed, missing, and extra interpolation variables across JSON and YAML locale files
 - **[Hexa Battle](https://github.com/armanilknem/Hexa-battle)**  
   Strategy/board game project inspired by the flash game Hex Empire 1.
