@@ -13,7 +13,7 @@ Most of my experience comes from academic projects, personal projects, and my wo
   Fullstack website project for the Hackerspace NTNU student organization.
 - **[AI Code Reviewer](https://github.com/MoaKK/AI-Code-Reviewer)** <br />
   GitHub Actions bot that automatically reviews pull requests using the Claude API, posting inline comments and a summary on every PR.
-- **[Tilgjengelighetskart - Kollektivtransport i Norge](https://github.com/MoaKK/Tilgengelighetskart-Kollektivtransport)** <br />
+- **[Tilgjengelighetskart - Kollektivtransport i Norge](https://tilgengelighetskart-kollektiv.vercel.app/)** <br />
 Interaktivt kart over kollektivtransporttilgjengelighet i Norge, basert på GTFS-data fra Entur. 
 - **[GeoField Collector](https://github.com/MoaKK/GeoField-Collector)** <br />
   React Native GIS field survey phone app for collecting, mapping, filtering, and exporting geotagged observations with GPS, photos, and offline local storage.
