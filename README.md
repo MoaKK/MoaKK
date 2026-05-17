@@ -15,14 +15,16 @@ Most of my experience comes from academic projects, personal projects, and my wo
   GitHub Actions bot that automatically reviews pull requests using the Claude API, posting inline comments and a summary on every PR.
 - **[Tilgjengelighetskart - Kollektivtransport i Norge](https://tilgengelighetskart-kollektiv.vercel.app/)** <br />
 Interaktivt kart over kollektivtransporttilgjengelighet i Norge, basert på GTFS-data fra Entur. 
-- **[GeoField Collector](https://github.com/MoaKK/GeoField-Collector)** <br />
-  React Native GIS field survey phone app for collecting, mapping, filtering, and exporting geotagged observations with GPS, photos, and offline local storage.
 - **[GeoScope](https://geo-scope-nu.vercel.app/)** <br />
 An interactive geospatial statistics web app built with Next.js and the ArcGIS Maps SDK for JavaScript.
-- **[Homework Helper AI](https://github.com/MoaKK/Homework-Helper-AI)** <br />
-  AI-focused phone application which helps solve homeworks by taking- or uploading <br /> pictures of your homework on the phone.
+- **[npmstats](https://www.npmstats.dev)** <br />
+  View and visualize download stats for any npm package or author, with daily, weekly, monthly, and yearly breakdowns.
+- **[GeoField Collector](https://github.com/MoaKK/GeoField-Collector)** <br />
+  React Native GIS field survey phone app for collecting, mapping, filtering, and exporting geotagged observations with GPS, photos, and offline local storage.
 - **[KillPort CLI](https://www.npmjs.com/package/@moakk/killport-cli)** <br />
   A CLI that kills whatever is running on a port, without digging through lsof output. Supports multiple ports, --force flag, and SIGKILL fallback.
+- **[Homework Helper AI](https://github.com/MoaKK/Homework-Helper-AI)** <br />
+  AI-focused phone application which helps solve homeworks by taking- or uploading <br /> pictures of your homework on the phone.
 - **[CatanBoardGame](https://github.com/MoaKK/CatanBoardGame)**  
   Game development project based on the board game Catan.
 - **[CV Screening Tool](https://github.com/bookdragonish/cv-screening-tool)**  
