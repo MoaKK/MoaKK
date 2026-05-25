@@ -2,7 +2,7 @@
 
 I'm an Informatics student at NTNU and a fullstack developer who enjoys building practical, user-friendly software. I like working across the stack, especially with React, TypeScript, Next.js, Java, Node.js, and Tailwind CSS.
 
-Most of my experience comes from academic projects, personal projects, and my work with HackerSpace NTNU. I’ve worked on everything from developing webapplications, to game development, to creating AI tools through the use of different LLM APIs. I'm also familiar with Esri's API and have experience working with ArcGIS Pro and geodata analysis.
+Most of my experience comes from academic projects, personal projects, and my work with HackerSpace NTNU. I’ve worked on everything from developing webapplications, to game development, to creating AI tools through the use of different LLM APIs. I'm also familiar with Esri's API and have experience working with ArcGIS Pro, MapLibre GL JS and geodata analysis.
 
 ### Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-kazem-khajeh-b6619b360/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Kazem_kh95@hotmail.com) 
@@ -12,7 +12,7 @@ Most of my experience comes from academic projects, personal projects, and my wo
 - **[Hackerspace NTNU Website](https://github.com/hackerspace-ntnu/website-next)**  
   Fullstack website project for the Hackerspace NTNU student organization.
 - **[Klima Data Norge](https://klimadatanorge.no)** <br />
-  Interactive climate data map for Norway -- CO₂ emissions, temperature anomaly, sea level rise, and precipitation. Built with Next.js, MapLibre, and D3.
+  Interactive climate data maps for Norway -- CO₂ emissions, temperature anomaly, sea level rise, and precipitation. Built with Next.js, MapLibre, and D3.
 - **[AI Code Reviewer](https://github.com/MoaKK/AI-Code-Reviewer)** <br />
   GitHub Actions bot that automatically reviews pull requests using the Claude API, posting inline comments and a summary on every PR.
 - **[Tilgjengelighetskart - Kollektivtransport i Norge](https://tilgengelighetskart-kollektiv.vercel.app/)** <br />
