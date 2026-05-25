@@ -11,6 +11,8 @@ Most of my experience comes from academic projects, personal projects, and my wo
 
 - **[Hackerspace NTNU Website](https://github.com/hackerspace-ntnu/website-next)**  
   Fullstack website project for the Hackerspace NTNU student organization.
+- **[Klima Data Norge](https://klimadatanorge.no)** <br />
+  Interactive climate data map for Norway -- CO₂ emissions, temperature anomaly, sea level rise, and precipitation. Built with Next.js, MapLibre, and D3.
 - **[AI Code Reviewer](https://github.com/MoaKK/AI-Code-Reviewer)** <br />
   GitHub Actions bot that automatically reviews pull requests using the Claude API, posting inline comments and a summary on every PR.
 - **[Tilgjengelighetskart - Kollektivtransport i Norge](https://tilgengelighetskart-kollektiv.vercel.app/)** <br />
