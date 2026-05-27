@@ -41,7 +41,7 @@ A mobile app that identifies cars from photos. Take a picture or upload one from
   Low-level systems project implementing an LC-3 VM.
 - **[Document scanner](https://github.com/MoaKK/document-scanner)** <br />
     A document scanner allowing users to scan, crop, and enhance physical documents into clean digital copies.
-<details>
+<details open>
 
   <summary><strong>GitHub Stats</strong></summary>
 
