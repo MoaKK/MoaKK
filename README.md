@@ -37,6 +37,8 @@ A CLI that catches placeholder mismatches in your i18n locale files before they 
   Strategy/board game project inspired by the flash game Hex Empire 1.
 - **[What Car Is It](https://github.com/MoaKK/What-Car-Is-It)** <br />
 A mobile app that identifies cars from photos. Take a picture or upload one from your library, and it tells you the specs.
+- **[Local-proxy](https://www.npmjs.com/package/@moakk/local-proxy) <br />
+CLI tool to map local ports to clean .test domains using nginx or Caddy.
 - **[LC3 Virtual Machine](https://github.com/MoaKK/LC3-Virtual-Machine)**  
   Low-level systems project implementing an LC-3 VM.
 - **[Document scanner](https://github.com/MoaKK/document-scanner)** <br />
