@@ -1,8 +1,10 @@
 ## Hello 👋
 
-I'm an Informatics student at NTNU and a fullstack developer who enjoys building practical, user-friendly software. I like working across the stack, especially with React, TypeScript, Next.js, Java, Node.js, and Tailwind CSS.
+I'm a Geodata Manager/Engineer at Møre og Romsdal County (Transport Department) and a fullstack developer with a background in Informatics and Geography from NTNU. I specialize in building practical, data-driven software, bridging the gap between web development, spatial analysis, and GIS pipelines.
 
-Most of my experience comes from academic projects, personal projects, and my work with HackerSpace NTNU. I’ve worked on everything from developing webapplications, to game development, to creating AI tools through the use of different LLM APIs. I'm also familiar with Esri's API and have experience working with ArcGIS Pro, MapLibre GL JS and geodata analysis.
+#### What I Do
+* **Geodata Management & Quality Control:** Managing spatial datasets, overseeing NVDB integrations, and performing technical quality assurance on NVDB data via Datafangst and FKB via GISLine, creating maps and performing data analysis in ArcGIS Pro and WebGIS.
+* **Software & Spatial Analysis:** Developing web applications, maps, climate visualizations, and AI-powered tools leveraging LLM APIs.
 
 ### Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-kazem-khajeh-b6619b360/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Kazem_kh95@hotmail.com) 
@@ -13,6 +15,8 @@ Most of my experience comes from academic projects, personal projects, and my wo
   Fullstack website project for the Hackerspace NTNU student organization.
 - **[Klima Data Norge](https://klimadatanorge.no)** <br />
   Interactive climate data maps for Norway covering CO₂ emissions, temperature anomaly, sea level rise, precipitation, glacier retreat, and live air quality. Built with Next.js, MapLibre, D3, and TanStack Query.
+- **[Trafikkdata rundt grunnskoler i Møre og Romsdal fylke](https://experience.arcgis.com/experience/769329a9d7ee43279b6f0c0c0717c7d3)** <br />
+  Interactive map showing traffic data around elementary and secondary schools in Møre og Romsdal county. 
 - **[AI Code Reviewer](https://github.com/MoaKK/AI-Code-Reviewer)** <br />
   GitHub Actions bot that automatically reviews pull requests using the Claude API, posting inline comments and a summary on every PR.
 - **[Tilgjengelighetskart - Kollektivtransport i Norge](https://tilgengelighetskart-kollektiv.vercel.app/)** <br />
