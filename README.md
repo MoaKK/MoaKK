@@ -19,6 +19,8 @@ I'm a Geodata Manager/Engineer at Møre og Romsdal County (Transport Department)
   Interactive map showing traffic data around elementary and secondary schools in Møre og Romsdal county. 
 - **[AI Code Reviewer](https://github.com/MoaKK/AI-Code-Reviewer)** <br />
   GitHub Actions bot that automatically reviews pull requests using the Claude API, posting inline comments and a summary on every PR.
+- **[NVDB Objektkatalog](https://nvdb-objektkatalog.vercel.app/)** <br />
+  Catalog of road object types from the Norwegian Road Database (NVDB), showing which properties surveyors must register when delivering data to the county road department.
 - **[Tilgjengelighetskart - Kollektivtransport i Norge](https://tilgengelighetskart-kollektiv.vercel.app/)** <br />
 Interactive map of public transport accessibility in Norway, based on GTFS data from Entur.
 - **[npmstats](https://www.npmstats.dev)** <br />
