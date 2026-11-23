@@ -13,14 +13,14 @@ I'm a Geodata Manager/Engineer at Møre og Romsdal County (Transport Department)
 
 - **[Hackerspace NTNU Website](https://github.com/hackerspace-ntnu/website-next)**  
   Fullstack website project for the Hackerspace NTNU student organization.
+- **[MRFK Datakatalog](https://nvdb-objektkatalog.vercel.app/)** <br />
+  Catalog of road object types from the Norwegian Road Database (NVDB), showing which properties surveyors must register when delivering data to the county road department.
 - **[Klima Data Norge](https://klimadatanorge.no)** <br />
   Interactive climate data maps for Norway covering CO₂ emissions, temperature anomaly, sea level rise, precipitation, glacier retreat, and live air quality. Built with Next.js, MapLibre, D3, and TanStack Query.
 - **[Trafikkdata rundt grunnskoler i Møre og Romsdal fylke](https://experience.arcgis.com/experience/769329a9d7ee43279b6f0c0c0717c7d3)** <br />
   Interactive map showing traffic data around elementary and secondary schools in Møre og Romsdal county. 
 - **[AI Code Reviewer](https://github.com/MoaKK/AI-Code-Reviewer)** <br />
   GitHub Actions bot that automatically reviews pull requests using the Claude API, posting inline comments and a summary on every PR.
-- **[NVDB Objektkatalog](https://nvdb-objektkatalog.vercel.app/)** <br />
-  Catalog of road object types from the Norwegian Road Database (NVDB), showing which properties surveyors must register when delivering data to the county road department.
 - **[Tilgjengelighetskart - Kollektivtransport i Norge](https://tilgengelighetskart-kollektiv.vercel.app/)** <br />
 Interactive map of public transport accessibility in Norway, based on GTFS data from Entur.
 - **[npmstats](https://www.npmstats.dev)** <br />
